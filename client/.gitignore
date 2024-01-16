@@ -1,18 +1,4 @@
-# django
-**/venv
-
-# since we want to show images present in the client folder, we specifically gitignore images in server folder only
-**/server/media
-
-**/__pycache__
-
-.env
-
-# react items
-**/node_modules
-
-**/.eslintcache
-
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
 /node_modules
